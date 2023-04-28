@@ -1,0 +1,2030 @@
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+.style-three.technology-area {
+    padding: 100px 124px 176px;
+}
+.style-three.six.technology-area {
+    padding: 100px 250px 176px;
+}
+.elementor-technology-title span {
+    font-size: 19px;
+}
+.style-two .feature-thumb {
+    margin-left: -95px;
+}
+.feature-box-title {
+    overflow: hidden;
+}
+.style-two .feature-box-title h2 {
+    font-size: 20px;
+}
+#section-quote .container-pe-quote .li-quote-2 {
+    left: 188px;
+}
+#section-quote .container-pe-quote .li-quote-1 {
+    left: 70px;
+}
+#section-quote .container-pe-quote .li-quote-3 {
+    left: 30px;
+}
+#section-quote .container-pe-quote .li-quote-4 {
+    right: 20px;
+
+}
+#section-quote .container-pe-quote .li-quote-8 {
+    right: 265px;
+}
+#section-quote .container-pe-quote .li-quote-5 {
+    right: 239px;
+}
+.about-counter-box {
+    bottom: 40px;
+}
+.dreamit-slider-thumb2 img {
+    width: 100%;
+}
+.style-two .elementor-about-title p {
+    font-size: 17px;
+}
+.about-since-title {
+    height: 120px;
+    width: 120px;
+}
+.about-since-content-inner:before {
+    left: 11px;
+}
+.feature-box-title {
+    overflow: hidden;
+}
+
+
+
+}
+
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1199px) {
+.search-box-btn {
+    margin-right: 16px;
+}
+.search-box-btn i {
+    font-size: 16px;
+}
+.header-bage {
+    margin: 31px -20px 0px 0;
+}
+.header-bage i {
+    font-size: 17px;
+}
+.dreamit-header-top-socail a {
+    font-size: 15px;
+}
+.slider-content h4 {
+    font-size: 18px;
+}
+.slider-content h1 {
+    font-size: 69px;
+    line-height: 65px;
+}
+.style-three .slider-content h4 {
+    font-size: 18px;
+}
+.style-three h1.slider-color {
+    font-size: 100px;
+}
+.style-three .slider-content h1 {
+    font-size: 100px;
+}
+.owl-next {
+    left: 33%;
+}
+.dreamit-feature-single-box {
+    padding: 30px 9px 23px 20px;
+}
+.feature-box-title h2 {
+    font-size: 22px;
+}
+.style-three .feature-box-title h2 {
+    font-size: 22px;
+    margin-top: 0;
+    color: #061d32;
+}
+.style-two .feature-box-title h2 {
+    font-size: 20px;
+}
+.about-area {
+    padding: 100px 0px 63px 0px;
+}
+.about-counter-box {
+    background: #232333;
+    width: 165px;
+    height: 120px;
+    border-top: 4px solid #fff;
+    border-left: 4px solid #fff;
+    bottom: 33px;
+    right: 17px;
+}
+.about-counter-title h2 {
+    font-size: 45px;
+}
+.about-counter-title span {
+    font-size: 45px;
+}
+.style-three.about-area {
+    padding: 100px 0px 63px 0px;
+}
+.col-sm-12.about-left {
+    margin-left: 0;
+}
+.style-two.rs-video {
+    top: 36%;
+    left: 49%;
+}
+.dreamit-section-title h1 {
+    font-size: 35px;
+    line-height: 35px;
+}
+.elementor-about-title h2 {
+    font-size: 18px;
+    margin-top: 7px;
+    line-height: 30px;
+}
+.elementor-about-title p {
+    font-size: 13px;
+}
+.about-section-title h2 {
+    right: -75px;
+}
+.style-two.about-area {
+    padding: 100px 0px 63px 0px;
+}
+.style-two .elementor-about-title p {
+    font-size: 15px;
+}
+.feature-box-title {
+    overflow: hidden;
+}
+.about-shape-inner img {
+    width: 90%;
+}
+.counter-title h4 {
+    font-size: 20px;
+    font-weight: 600;
+}
+.style-three .dreamit-about-thumb {
+    margin-left: -99px;
+}
+.style-three .dreamit-about-thumb {
+    position: relative;
+    z-index: 1;
+    margin-left: -32px;
+}
+.style-three.technology-area {
+    padding: 100px 0px 176px;
+}
+.elementor-technology-title span {
+    font-size: 15px;
+}
+.technology-area {
+    padding: 238px 0px 168px;
+}
+.flip-box {
+    width: 230px;
+}
+.flip-box3 {
+    width: 230px;
+}
+.flip-box-content h3 {
+    font-size: 24px;
+}
+.style-five .counter-text h1 {
+    font-size: 45px;
+}
+.style-five .counter-title h4 {
+    font-size: 20px;
+}
+.video-title h1 {
+    font-size: 35px;
+}
+.why-choose-us-title h2 {
+    font-size: 20px;
+}
+.why-choose-us-number h1 {
+    font-size: 80px;
+}
+.dreamit-service-title h2 {
+    font-size: 20px;
+}
+.case-study-title h2 {
+    font-size: 17px;
+}
+.case-study-content {
+    padding: 0px 14px 0px;
+}
+.style-two.case-study-content {
+    padding: 0px 14px 0px;
+}
+.case-study-content:before {
+    width: 24%;
+}
+.style-two.case-study-content:before {
+    width: 24%;
+}
+.case-study-icon {
+    top: 25px;
+    right: 15px;
+    position: absolute;
+}
+.case-study-title p {
+    font-size: 14px;
+}
+.portfolio_menu ul li {
+    font-size: 17px;
+}
+.dreamit-section-title {
+    padding-left: 30px;
+}
+.brand-section-title h1 {
+    padding-left: 20px;
+}
+.dreamit-single-testimonial-box {
+    margin-top: 50px;
+}
+.blog_page_title h4 {
+    font-size: 22px;
+}
+nav.dreamit_menu {
+    float: inherit;
+}
+.style-two .dreamit_menu ul {
+    margin-left: 0;
+}
+.style-two nav.dreamit_menu {
+    padding-left: 0;
+}
+.style-two .service-text {
+    margin-top: 8px;
+}
+.style-two .dreamit-service-title h4 {
+    margin-top: -2px;
+    font-size: 23px;
+}
+.style-two .dreamit-service-content {
+    padding: 12px 20px 8px;
+}
+.service-button a {
+    margin-top: 20px;
+}
+.subscribe-title h1 {
+    font-size: 40px;
+    margin-bottom: 11px;
+}
+.company-title h4 {
+    font-size: 22px;
+}
+.company_icon a {
+    font-size: 15px;
+}
+.footer-socail-info p {
+    font-size: 16px;
+}
+.footer-socail-info2 p {
+    font-size: 14px;
+}
+.footer-recent-post-title p {
+    font-size: 13px;
+}
+.footer-recent-post-title span {
+    color: #b79c62;
+    font-size: 13px;
+}
+.footer-socail-info2 {
+    overflow: hidden;
+}
+.footer-recent-post-title {
+    overflow: hidden;
+}
+.style-two .company_icon a {
+    margin: 18px -5px 0px 14px;
+}
+.style-two .why-choose-us-title h2 {
+    font-size: 24px;
+}
+.style-four .feature-box-title h2 {
+    font-size: 19px;
+}
+.why-choos-thumb img {
+    width: 100%;
+}
+.style-three .dreamit-service-title h2 {
+    font-size: 19px;
+}
+.call-do-action-title h1 {
+    font-size: 35px;
+}
+.style-three.six.technology-area {
+    padding: 100px 0 176px;
+}
+.style-three .blog_page_title h4 {
+    font-size: 22px;
+}
+.slider-five.slider-area {
+    overflow: hidden;
+    height: 730px;
+}
+.dreamit_menu ul {
+    margin-left: 0;
+}
+.style-three .dreamit_menu > ul > li > a {
+    margin: 30px 7px;
+    font-size: 16px;
+}
+.header-botton a {
+    font-size: 12px;
+    padding: 15px 26px;
+    margin-left: 10px;
+}
+.style-three .header-botton a {
+    font-size: 12px;
+    padding: 12px 26px;
+    margin-left: 10px;
+}
+.slider-five .slider-content h1 {
+    font-size: 48px;
+}
+.dreamit-slider-thumb2 img {
+    width: 100%;
+}
+.slider-five .from-box button {
+    top: 81%;
+    right: 40px;
+}
+.style-five .feature-icon-right-thumb {
+    margin-left: 44px;
+}
+.style-five .feature-icon-thumb {
+    margin-right: 18px;
+}
+.dark-version.dreamit-section-title h1 {
+    font-size: 32px;
+    line-height: 38px;
+}
+.style-four .elementor-about-title h5 {
+    font-size: 16px;
+}
+.style-six .dreamit-service-title h4 {
+    font-size: 22px;
+}
+.dark-version2.dreamit-section-title h1 {
+    font-size: 31px;
+    line-height: 33px;
+}
+.dreamit-about-thumb img {
+    width: 100% !important;
+}
+.dark-version2.dreamit-section-title {
+    padding-left: 0;
+}
+.style-five .elementor-about-title h5 {
+    font-size: 17px;
+}
+.style-five .dreamit-about-title h1 {
+    font-size: 80px;
+    padding: 12px 0 35px;
+}
+.style-five .dreamit-about-title h5 {
+    font-size: 16px;
+    padding-top: 25px;
+}
+.style-three .from-box button {
+    right: 278px;
+}
+.style-three .menu-quick-link-content ul li {
+    padding-left: 20px;
+}
+.style-three .company_icon {
+    padding-left: 0;
+}
+.style-three .why-choose-us-title2 p {
+    overflow: hidden;
+}
+.feature-box-title p {
+    font-size: 14px;
+}
+.breatcumb-title h2 {
+    font-size: 50px;
+}
+#section-quote .container-pe-quote .li-quote-1 {
+    left: 0px;
+}
+#section-quote .container-pe-quote .li-quote-5 {
+    right: 100px;
+    top: 400px;
+}
+#section-quote .container-pe-quote .li-quote-2 {
+    left: 48px;
+    top: 255px;
+}
+#section-quote .container-pe-quote .li-quote-3 {
+    left: -5px;
+    top: 430px;
+}
+#section-quote .container-pe-quote .li-quote-4 {
+    right: -20px;
+}
+#section-quote .container-pe-quote .li-quote-8 {
+    right: 135px;
+}
+.style-three .elementor-about-title p {
+    font-size: 18px;
+}
+.team-title h3 {
+    font-size: 20px;
+}
+.style-two .single_blog_content {
+    padding: 0 1px 0 19px;
+}
+
+
+}
+
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+.header-top-area {
+    display: none;
+}
+.dreamit_nav_manu {
+    display: none;
+}
+.slider-content h1 {
+    font-size: 51px;
+    line-height: 50px;
+}
+.style-three h1.slider-color {
+    font-size: 100px;
+}
+.style-three .slider-content h1 {
+    font-size: 70px;
+    line-height: 65px;
+}
+.style-three .slider-content h4 {
+    font-size: 18px;
+}
+.style-five .counter-title h4 {
+    font-size: 18px;
+}
+.style-two .why-choose-us-title h2 {
+    font-size: 22px;
+}
+.style-two .dreamit-service-content{
+    margin-top: 0 !important;
+}
+.style-three .testimonial-title p {
+    font-size: 15px;
+}
+.slider-content h4 {
+    font-size: 16px;
+}
+.about-area {
+    padding: 100px 0px 63px 0px;
+}
+.style-three.about-area {
+    padding: 100px 0px 63px 0px;
+}
+.about-icon i {
+    font-size: 36px;
+}
+.dreamit-feature-single-box {
+    padding: 30px 9px 23px 20px;
+}
+.feature-box-title h2 {
+    font-size: 22px;
+}
+.about-area {
+    padding: 100px 0px 63px 0px;
+}
+.style-three.about-area {
+    padding: 100px 0px 63px 0px;
+}
+.col-sm-12.about-left {
+    margin-left: 0;
+}
+.about-counter-box {
+    background: #232333;
+    width: 142px;
+    height: 110px;
+    border-top: 4px solid #fff;
+    border-left: 4px solid #fff;
+    bottom: 25px;
+    right: 14px;
+}
+.dreamit-section-title h1 {
+    font-size: 29px;
+    line-height: 27px;
+}
+.style-two.dreamit-section-title h1 {
+    font-size: 34px;
+}
+.style-two.rs-video {
+    top: 50%;
+    left: 42%;
+}
+.about-counter-title h2 {
+    font-size: 42px;
+}
+.about-counter-title span {
+    font-size: 38px;
+}
+.about-counter-title h4 {
+    font-size: 20px;
+    margin-top: -12px;
+}
+.style-two.rs-video {
+    top: 36%;
+    left: 49%;
+}
+.elementor-about-title h2 {
+    font-size: 18px;
+    margin-top: 7px;
+    line-height: 22px;
+}
+.elementor-about-title h2 {
+    font-size: 20px;
+    margin-top: 7px;
+    line-height: 25px;
+}
+.elementor-about-title p {
+    font-size: 15px;
+}
+.about-section-title h2 {
+    right: -70px;
+    font-size: 70px;
+}
+.about-name-title h2 {
+    font-size: 18px;
+}
+.about-name-title {
+    overflow: hidden;
+}
+.dreamit-about-shape {
+    position: absolute;
+    top: 0;
+    left: 112px;
+}
+.dreamit-single-counter-box {
+    text-align: center;
+}
+.lines .line:nth-child(1) {
+    margin-left: -16%;
+}
+.lines .line:nth-child(2) {
+    margin-left: 27%;
+}
+.lines .line:nth-child(3) {
+    margin-left: 27%;
+}
+.lines .line {
+    left: 62%;
+}
+.service-button a {
+    margin-top: 18px;
+}
+.dreamit-service-title h2 {
+    font-size: 22px;
+}
+.technology-area {
+    padding: 238px 0px 168px;
+}
+.call-do-action-title h1 {
+    font-size: 31px;
+}
+.style-three .blog_page_title h4 {
+    font-size: 21px;
+}
+.team-title h3 {
+    font-size: 22px;
+}
+.case-study-title h2 {
+    font-size: 20px;
+}
+.blog-button a {
+    margin-top: 18px;
+}
+.dreamit-section-title-text p {
+    margin-top: -27px;
+}
+.style-two .service-text {
+    margin-top: 0;
+}
+.style-two.about-area {
+    padding: 100px 0px 63px 0px;
+}
+.style-two .elementor-about-title p {
+    font-size: 18px;
+}
+.style-three.technology-area {
+    padding: 100px 0px 176px;
+}
+.elementor-technology-title span {
+    font-size: 11px;
+}
+.from-box input {
+    float: inherit;
+    width: 90%;
+}
+.flip-box {
+    width: 175px;
+    height: 210px;
+}
+.flip-box3 {
+    width: 175px;
+    height: 210px;
+}
+.flip-box-content h3 {
+    font-size: 22px;
+}
+.style-five .counter-text h1 {
+    font-size: 45px;
+}
+.style-five .counter-text span {
+    font-size: 40px;
+}
+.technology-titile h1 {
+    font-size: 90px;
+    margin-top: 15px;
+}
+.portfolio_menu ul li {
+    font-size: 18px;
+}
+.counter-text span {
+    font-size: 40px;
+}
+.style-two .feature-box-title h2 {
+    font-size: 19px;
+}
+.style-three .feature-box-title p {
+    font-size: 15px;
+}
+.subscribe-title h1 {
+    font-size: 31px;
+    margin-bottom: 2px;
+}
+.contact-form-box {
+    margin-top: 16px;
+}
+.video-title h1 {
+    font-size: 21px;
+}
+.video-title p {
+    font-size: 12px;
+}
+p.style-three {
+    padding: 0 121px;
+}
+.style-two .single_blog_thumb img {
+    width: 100%;
+}
+.style-two .post-categories {
+    margin-top: -190px;
+}
+.subscribe-title p {
+    font-size: 13px;
+}
+.style-four.technology-area {
+    padding: 44px 0 0;
+}
+.style-three .elementor-about-title p {
+    font-size: 18px;
+}
+.style-five.technology-area {
+    padding: 100px 0px 100px;
+}
+.style-three.six.technology-area {
+    padding: 100px 0 176px;
+}
+.slider-four .slider-content h4 {
+    font-size: 14px;
+}
+.style-four .feature-box-title h2 {
+    font-size: 21px;
+}
+.why-choos-thumb img {
+    width: 100%;
+}
+.style-five.rs-video {
+    top: 24%;
+    left: 38%;
+}
+.style-three .dreamit-section-title h1 {
+    font-size: 27px;
+    line-height: 30px;
+}
+.why-choose-us-title2 h4 {
+    font-size: 20px;
+}
+.why-choose-us-title2 p {
+    overflow: hidden;
+}
+.style-three .dreamit-service-title h2 {
+    font-size: 24px;
+}
+.slider-five.slider-area {
+    overflow: hidden;
+    height: 595px;
+}
+.slider-five .slider-content h1 {
+    font-size: 35px;
+    line-height: 45px;
+}
+.slider-five .from-box button {
+    right: 8px;
+    padding: 18px 27px;
+}
+.dreamit-slider-thumb2 img {
+    width: 100%;
+}
+.style-five .dreamit-feature-single-box2 {
+    padding: 40px 4px 52px;
+}
+.style-five .feature-icon-thumb {
+    margin-right: 6px;
+}
+.feature-icon-thumb img {
+    width: 87%;
+}
+.style-five .feature-box-title h2 {
+    font-size: 17px;
+}
+.style-five .feature-icon-right-thumb {
+    margin-left: 0;
+}
+.feature-icon-right-thumb.text-right img {
+    width: 77%;
+}
+.style-five .dreamit-feature-single-box3 {
+    padding: 40px 7px 52px;
+}
+.style-five .feature-box-title p {
+    color: #fff;
+    font-size: 14px;
+}
+.dark-version.dreamit-section-title h1 {
+    font-size: 25px;
+    line-height: 28px;
+}
+.style-six .dreamit-section-title p {
+    padding: 0 0 6px;
+}
+.dark-version2.dreamit-section-title h1 {
+    font-size: 25px;
+    line-height: 26px;
+}
+.style-five .dreamit-about-thumb img {
+    width: 100%;
+}
+.style-five .dreamit-about-title h1 {
+      /* font-family: 'Inter'; */
+    font-size: 60px;
+    padding: 0px 0 25px;
+}
+.style-five .dreamit-about-title h5 {
+    font-size: 16px;
+    padding-top: 95px;
+}
+.style-three .from-box input {
+    width: 60%;
+}
+.style-three .from-box button {
+    top: 211px;
+    right: 159px;
+}
+.style-three .subscribe-title h1 {
+    font-size: 38px;
+}
+.style-four .why-choose-us-title p {
+    font-size: 15px;
+}
+.style-three .widget.widget-nav-menu {
+    padding-left: 8px;
+}
+.style-three .menu-quick-link-content ul li {
+    padding-left: 12px;
+}
+.style-three .menu-quick-link-content ul li a {
+    font-size: 14px;
+    padding: 4px 0 0;
+}
+.style-three .company_icon a {
+    margin: 0px 0px 0px 5px;
+    font-size: 14px;
+    height: inherit;
+    width: inherit;
+    background: inherit;
+}
+.style-three .company_icon {
+    padding-left: 0;
+}
+.style-three a.logo_img img {
+    width: 100%;
+}
+.blog-page-title h2 {
+    font-size: 22px;
+    line-height: 30px;
+}
+#section-quote .container-pe-quote .li-quote-1 {
+    left: -11px;
+}
+#section-quote .container-pe-quote .li-quote-2 {
+    left: -106px;
+    top: 255px;
+}
+#section-quote .container-pe-quote .li-quote-3 {
+    left: -5px;
+    top: 430px;
+}
+#section-quote .container-pe-quote .li-quote-5 {
+    right: 44px;
+    top: 400px;
+}
+#section-quote .container-pe-quote .li-quote-4 {
+    right: -55px;
+}
+#section-quote .container-pe-quote .li-quote-8 {
+    right: 64px;
+    top: 141px;
+}
+.blog_page_title h4 {
+    font-size: 22px;
+}
+.counter-title h4 {
+    font-size: 20px;
+    font-weight: 600;
+}
+.feature-box-title {
+    overflow: hidden;
+}
+
+}
+
+/* Large Mobile :600px. */
+@media only screen and (min-width: 600px) and (max-width: 767px) {
+    .style-two .dreamit-service-content:before{
+        max-width: 100px  !important;
+    }
+    .contact-now-area .map{
+        position: relative;
+        width: 100%;
+        left: 0;
+    }
+    .contact-now-form-box{
+        flex-direction: column;
+        margin: auto;
+    }
+    .menu-quick-link-content ul li:before{
+        content: none !important;
+    }
+    .box-shape{
+        width: 15px !important;
+    }
+    .technology-single-icon-box{
+        flex-direction: row !important;
+        justify-content: space-around !important;
+        align-items: center !important;
+    }
+.header-top-area {
+    display: none;
+}
+.dreamit_nav_manu {
+    display: none;
+}
+.slider-two.slider-area {
+    height: 665px
+}
+.slider-two.slider-area .box-shape.right{
+    display: none;
+}
+.style-three .slider-content h4 {
+    font-size: 16px;
+}
+.style-three h1.slider-color {
+    font-size: 80px;
+}
+.style-three .slider-content h1 {
+    font-size: 64px;
+    line-height: 66px;
+}
+.subscribe-title h1 {
+    font-size: 38px;
+}
+.dreamit-section-title.style_two {
+    margin-bottom: 21px;
+    margin-top: 25px;
+}
+.style-four.technology-area {
+    padding: 44px 0 0px;
+}
+.about-area {
+    padding: 100px 0px 63px 0px;
+}
+.style-three.about-area {
+    padding: 100px 0px 63px 0px;
+}
+.col-sm-12.about-left {
+    margin-left: 0;
+}
+.counter-text h1 {
+    font-size: 48px;
+}
+.counter-text span {
+    font-size: 40px;
+}
+.style-two.about-area {
+    padding: 100px 0px 63px 0px;
+}
+.about-counter-box {
+    background: #232333;
+    width: 142px;
+    height: 110px;
+    border-top: 4px solid #fff;
+    border-left: 4px solid #fff;
+    bottom: 41px;
+    right: 21px;
+}
+.slider-two .slider-content h1 {
+    font-size: 59px;
+    line-height: 50px;
+}
+.style-two.rs-video {
+    top: 50%;
+    left: 42%;
+}
+.about-counter-title h2 {
+    font-size: 42px;
+}
+.about-counter-title span {
+    font-size: 38px;
+}
+.breatcumb-area{
+    margin-top: 0 !important;
+}
+.about-counter-title h4 {
+    font-size: 20px;
+    margin-top: -12px;
+}
+.style-two.rs-video {
+    top: 47%;
+    left: 59%;
+}
+.dreamit-section-title h5 {
+    font-size: 14px;
+}
+.dreamit-section-title h1 {
+    font-size: 31px;
+    line-height: 28px;
+}
+.elementor-about-title h2 {
+    font-size: 24px;
+    margin-top: 7px;
+    line-height: 30px;
+}
+.about-section-title h2 {
+    font-size:75px !important;
+}
+.about-name-title h2 {
+    font-size: 22px;
+}
+.dreamit-about-shape {
+    position: absolute;
+    top: 0;
+    left: 112px;
+}
+.dreamit-single-counter-box {
+    margin-bottom: 30px;
+    text-align: center;
+}
+.dreamit-section-title-text p {
+    margin-top: -15px;
+    margin-bottom: 30px;
+}
+.why-choose-us-title h2 {
+    font-size: 30px;
+}
+.lines .line:nth-child(2) {
+    margin-left: 27%;
+}
+.lines .line:nth-child(3) {
+    margin-left: 27%;
+}
+.service-button a {
+    margin-top: -108px;
+}
+.technology-area {
+    padding: 238px 0px 168px;
+}
+.call-do-action-title h1 {
+    font-size: 38px;
+}
+.call-do-action-button a {
+    margin-top: 0;
+}
+.case-study-title h2 {
+    font-size: 19px;
+}
+.case-study-content {
+    width: 67%;
+}
+.style-two.case-study-content {
+    width: 67%;
+}
+.case-study-icon {
+    right: 27px;
+}
+.brand-thumb {
+    text-align: center;
+}
+.blog-button a {
+    padding: 11px 16px;
+    font-size: 14px;
+    border: 1px solid #b79c62;
+    margin-top: -110px;
+}
+.from-box button {
+    top: 0px;
+    right: 117px;
+}
+.style-two .from-box button {
+    top: 16px;
+    right: 16px;
+}
+.style-two .service-text {
+    margin-top: 0;
+}
+.style-two .dreamit-service-icon {
+    margin-right: 64px !important;
+    padding: 5px 0px 0 0px !important; 
+    
+}
+.style-two .dreamit-service-icon i {
+    margin-left: 16px;
+}
+.style-three.technology-area {
+    padding: 100px 0px 176px;
+}
+.style-three.technology-area .row{
+    flex-direction: column-reverse;
+}
+.style-two .dreamit-service-content{
+    margin-top: 0 !important;
+}
+.style-two .feature-box-title h2 {
+    font-size: 21px;
+}
+.from-box input {
+    float: inherit;
+}
+.footer-bottom-menu {
+    float: left;
+}
+h4.widget-title {
+    font-size: 25px !important;
+    padding-top: 16px !important;
+    margin-top: 19px !important;
+}
+.video-title h1 {
+    font-size: 21px;
+}
+.video-title p {
+    font-size: 12px;
+}
+.flip-box {
+    width: 100%;
+    height: 270px;
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+.flip-box3 {
+    width: 100%;
+    height: 270px;
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+.portfolio_area {
+    padding: 100px 0 40px;
+}
+.col-lg-5.col-md-6.col-sm-12.maching2 {
+    padding-left: 0;
+    margin-bottom: 30px;
+}
+.dreamit-video-thumb img {
+    width: 100%;
+}
+p.style-three {
+    padding: 0 50px;
+}
+.testimonial2_list .owl-dots {
+    margin-top: 0px;
+}
+.team-list .owl-dots {
+    margin-top: 10px;
+}
+.single_blog {
+    text-align: center;
+    margin-bottom: 80px;
+}
+.style-two .post-categories {
+    width: 20%;
+    margin-left: 60px;
+}
+.blog_page_title h4 {
+    font-size: 19px;
+}
+.style-two.why-choose-us-area {
+    padding: 195px 0 10px;
+}
+.style-three .elementor-about-title p {
+    font-size: 15px;
+}
+.style-three.six.technology-area {
+    padding: 100px 0 176px;
+}
+.slider-four .slider-content h1 {
+    font-size: 45px;
+}
+.slider-four .slider-content h4 {
+    font-size: 14px;
+}
+.why-choose-us-title2 p {
+    overflow: hidden;
+}
+.service-button a {
+    padding: 11px 20px;
+    font-size: 16px;
+}
+.style-two .call-do-action-button a {
+    margin-top: 0;
+}
+.style-three .dreamit-section-title h1 {
+    font-size: 38px;
+    line-height: 30px;
+}
+.footer-recent-post {
+    overflow: hidden;
+}
+.style-four.why-choose-us-area {
+    overflow: hidden;
+}
+.slider-five.slider-area {
+    overflow: hidden;
+}
+.slider-five .slider-content h1 {
+    font-size: 41px;
+    line-height: 43px;
+}
+.dreamit-slider-thumb2 img {
+    width: 100%;
+}
+.dreamit-slider-thumb2 {
+    margin-top: 36px;
+}
+.slider-five .from-box button {
+    top: 78%;
+}
+.dark-version.dreamit-section-title h1 {
+    font-size: 35px;
+    line-height: 38px;
+}
+.style-three .brand-title3 h5 {
+    font-size: 18px;
+    padding-bottom: 70px;
+}
+.style-three .row.brand {
+    padding-bottom: 70px;
+}
+.style-six .dreamit-section-title p {
+    padding: 0 0 6px;
+}
+.why-choos-thumb img {
+    width: 100%;
+}
+.style-five .dreamit-about-title h1 {
+    font-size: 85px;
+    padding: 14px 0 28px;
+}
+.dark-version2.dreamit-section-title h1 {
+    font-size: 38px;
+    line-height: 40px;
+}
+.about-icon-thumb {
+    float: left;
+    margin-top: 30px;
+}
+.style-five .about-icon-thumb img {
+    width: 76%;
+}
+.style-four .single_blog_content {
+    text-align: left;
+}
+.style-four .single_blog {
+    text-align: center;
+    margin-bottom: 30px;
+}
+.style-three .subscribe-title h1 {
+    font-size: 38px;
+}
+.style-three .from-box button {
+    top: 197px;
+    right: 96px;
+    padding: 14px 26px;
+    font-size: 12px;
+}
+.style-three .from-box input {
+    width: 70%;
+}
+.style-three .subscribe-title p {
+    padding: 5px 16px 25px;
+}
+.style-three .menu-quick-link-content ul li a {
+    padding: 20px 0 0;
+}
+.widget-widgets-company-info.white {
+    text-align: center;
+}
+.style-three .menu-quick-link-content ul li {
+    padding-left: 30px;
+}
+.style-three .company_icon {
+    padding-left: 0;
+    text-align: center;
+    padding-top: 25px;
+}
+ .footer-bottom-content-copy {
+    text-align: center;
+}
+.style-two .footer-bottom-content-copy {
+    text-align: inherit !important;
+}
+.style-three .footer-bottom-menu {
+    float: inherit;
+    margin-right: 118px;
+    padding-top: 0;
+}
+.widget-sidebar-title-2 p {
+    padding: 0 0px 20px;
+}
+#section-quote .container-pe-quote .li-quote-1 {
+    left: -11px;
+}
+#section-quote .container-pe-quote .li-quote-2 {
+    left: -106px;
+    top: 320px;
+}
+#section-quote .container-pe-quote .li-quote-3 {
+    left: -5px;
+    top: 430px;
+}
+#section-quote .container-pe-quote .li-quote-5 {
+    right: 44px;
+    top: 400px;
+}
+#section-quote .container-pe-quote .li-quote-4 {
+    right: -55px;
+    top: 156px;
+}
+#section-quote .container-pe-quote .li-quote-8 {
+    right: 64px;
+    top: 141px;
+}
+.counter-title h4 {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+}
+/* small mobile :320px. */
+@media only screen and (min-width: 320px) and (max-width: 599px) {
+    .style-two .dreamit-service-content:before{
+        max-width: 100px  !important;
+    }
+    .contact-now-area .map{
+        position: relative!important;
+        width: 100% !important;
+        left: 0 ;
+       
+    }
+    .contact-now-form-box{
+        flex-direction: column;
+        margin: auto;
+    }
+    .menu-quick-link-content ul li:before{
+        content: none !important;
+    }
+    .box-shape{
+        width: 15px !important;
+    }
+    .technology-single-icon-box{
+        flex-direction: row !important;
+        justify-content: space-around !important;
+        align-items: center !important;
+        min-height: 0 !important;
+        padding: 20px 15px !important;
+    }
+    .technology-title h3{
+        margin-bottom: 0 !important;
+    }
+.header-top-area {
+    display: none;
+}
+.slider-two.slider-area .box-shape.right{
+    display: none;
+}
+.breatcumb-area{
+    margin-top: 0 !important;
+}
+.dreamit_nav_manu {
+    display: none;
+} 
+.technology-area {
+    padding: 238px 0px 168px;
+}
+.slider-content h1 {
+    font-size: 38px;
+    line-height: 38px;
+}
+.slider-content h4 {
+    font-size: 14px;
+}
+.slider-content p {
+    font-size: 16px;
+}
+.dreamit-slider-thumb img {
+    width: 100%;
+}
+.dreamit-slider-thumb {
+    bottom: -67px;
+}
+.owl-prev {
+    left: 148px;
+}
+.style-two .service-text {
+    margin-top: -24px;
+}
+.style-two .dreamit-service-content{
+    margin-top: 0 !important;
+}
+.feature-box-title h2 {
+    font-size: 22px;
+}
+.style-two .dreamit-service-title h4 {
+    font-size: 23px;
+}
+.about-area {
+    padding: 100px 0px 63px 0px;
+}
+.style-three.about-area {
+    padding: 100px 0px 63px 0px;
+}
+.col-sm-12.about-left {
+    margin-left: 0;
+}
+.about-counter-box {
+    width: 142px;
+    height: 110px;
+    border-top: 4px solid #fff;
+    border-left: 4px solid #fff;
+    bottom: 21px;
+    right: 2px;
+}
+.style-two .single_blog_content {
+    padding: 0 20px 0 30px;
+}
+.style-two .post-categories-right span {
+    font-size: 12px;
+}
+.style-two .dreamit_blog_meta a {
+    font-size: 12px;
+}
+.style-two.rs-video {
+    top: 50%;
+    left: 42%;
+}
+.about-counter-title h2 {
+    font-size: 42px;
+}
+.about-counter-title span {
+    font-size: 38px;
+}
+.about-counter-title h4 {
+    font-size: 20px;
+    margin-top: -12px;
+}
+.style-two.rs-video {
+    top: 44%;
+    left: 35%;
+}
+.style-two.rs-video .animate-border .video-vemo-icon {
+    font-size: 35px;
+    width: 60px;
+    height: 60px;
+    line-height: 66px;
+}
+.dreamit-section-title h1 {
+    font-size: 22px;
+    line-height: 24px;
+}
+.elementor-about-title h2 {
+    font-size: 24px;
+    margin-top: 7px;
+    line-height: 30px;
+}
+.about-section-title h2 {
+    font-size: 75px px !important;
+    margin-bottom: 20px;
+    right: 120px;
+}
+.about-name-title h2 {
+    margin-top: 0;
+    font-size: 17px;
+}
+.dreamit-about-signature-thumb {
+    float: left;
+    margin-right: 40px;
+}
+.dreamit-about-shape {
+    left: 96px;
+}
+.dreamit-single-counter-box {
+    text-align: center;
+}
+.lines .line:nth-child(2) {
+    margin-left: 32%;
+}
+.lines .line:nth-child(3) {
+    margin-left: 32%;
+}
+.service-button a {
+    padding: 8px 15px;
+    font-size: 16px;
+    margin-top: -10px;
+    float: revert;
+    margin-bottom: 30px;
+}
+.dreamit-service-title h2 {
+    font-size: 20px;
+}
+.call-do-action-title h1 {
+    margin-bottom: 0px;
+    font-size: 20px;
+}
+.call-do-action-button a {
+    padding: 12px 34px;
+    float: inherit;
+}
+.dreamit-section-title h5 {
+    font-size: 13px;
+    margin-top: 50px;
+}
+.case-study-title h2 {
+    font-size: 16px;
+    line-height: 29px;
+}
+.case-study-icon i {
+    font-size: 20px;
+}
+.case-study-title p {
+    font-size: 12px;
+}
+.case-study-content {
+    padding: 0px 25px 0px;
+}
+.case-study-icon {
+    top: 13px;
+    right: 28px;
+}
+.style-two.case-study-content {
+    padding: 0px 25px 0px;
+}
+.style-two .case-study-icon {
+    top: 22px;
+    right: 28px;
+}
+.row.call-top {
+    padding: 37px 20px 25px;
+    text-align: center;
+}
+.counter-text h1 {
+    font-size: 45px;
+}
+.counter-text span {
+    font-size: 35px;
+}
+.row.brand-left {
+    text-align: center;
+}
+.brand-section-title h1 {
+    font-size: 100px;
+}
+.style-two .dreamit-feature-single-box2 {
+    padding: 40px 10px 28px 26px;
+}
+.style-two .feature-box-title h2 {
+    font-size: 20px;
+}
+.style-two  .testimonial-title p {
+    width: 100%;
+    margin: auto;
+}
+.testi-titile h2 {
+    font-size: 20px;
+}
+.testi-titile span {
+    font-size: 14px;
+}
+.testimonial-thumb {
+    margin-right: 12px;
+}
+.blog-button a {
+    padding: 8px 15px;
+    font-size: 13px;
+    margin-top: -59px;
+}
+.blog_page_title h4 {
+    font-size: 20px;
+}
+.subscribe-title h1 {
+    font-size: 20px;
+    margin-bottom: 3px;
+    text-align: center;
+}
+.subscribe-title p {
+    font-size: 14px;
+    text-align: center;
+}
+.from-box input {
+    float: inherit;
+    width: 100% !important;
+}
+.style-two .from-box button {
+    top: 18px;
+    right: 13px;
+    padding: 6px 18px;
+    font-size: 12px;
+}
+.style-two .from-box input {
+    float: inherit;
+    height: 44px;
+    font-size: 10px;
+    padding: 7px 11px;
+    width: 90%;
+}
+.style-two .from-box button {
+    top: 2px;
+    right: 20px;
+    padding: 6px 17px;
+    font-size: 14px;
+}
+.footer-bottom-menu ul li {
+    margin-left: 33px;
+    float: inherit;
+}
+h4.widget-title {
+    font-size: 22px !important;
+    padding-top: 15px !important;
+    margin-top: 5px !important;
+    text-align: center !important;
+}
+.footer-socail-icon {
+    float: inherit;
+    text-align: center;
+}
+.footer-inner {
+    text-align: center;
+}
+.style-three .technology-icon i {
+    font-size: 37px;
+}
+.technology-title h3 {
+    font-size: 20px;
+}
+.company-title {
+    float: inherit;
+    text-align: center;
+}
+.style-two .company_icon a {
+    margin: 18px 30px 0px 20px;
+}
+.menu-quick-link-content {
+    text-align: center;
+}
+.dreamit-section-title-text p {
+    margin-top: -25px;
+    padding-bottom: 12px;
+}
+.style-two.about-area {
+    padding: 100px 0px 63px 0px;
+}
+.style-three.technology-area {
+    padding: 100px 0px 176px;
+}
+.style-three.technology-area .row{
+    flex-direction: column-reverse;
+}
+.technology-titile h1 {
+    font-size: 60px;
+}
+.company-info-desc p {
+    font-size: 15px;
+    text-align: center;
+}
+
+.portfolio_menu ul li {
+    display: inline-block;
+    margin: 30px 14px 0;
+    font-size: 18px;
+    float: left;
+}
+.portfolio_menu ul li {
+    padding: 0px 1px 0;
+    font-size: 17px;
+    float: inherit;
+}
+.technology-titile h1 {
+    font-size: 60px;
+    margin-top: 3px;
+}
+.footer-bottom-content-copy p {
+    text-align: center;
+}
+.video-title h1 {
+    font-size: 21px;
+}
+.video-title p {
+    font-size: 12px;
+}
+p.style-three {
+    padding: 0 50px;
+}
+.style-three .slider-content h4 {
+    font-size: 14px;
+}
+.style-three h1.slider-color {
+    font-size: 48px;
+}
+.style-three .slider-content h1 {
+    font-size: 48px;
+    line-height: 50px;
+}
+.style-four.rs-video .animate-border .video-vemo-icon {
+    font-size: 30px;
+    width: 55px;
+    height: 55px;
+    line-height: 60px;
+}
+.style-three .dreamit-section-title.style_two {
+    margin-bottom: 21px;
+    text-align: center;
+}
+.style-three .dreamit-section-title h5 {
+    font-size: 13px;
+    margin-top: 25px;
+}
+.style-four.technology-area {
+    padding: 44px 0 0px;
+}
+.style-three .elementor-about-title p {
+    font-size: 16px;
+}
+.style-three .feature-box-title h2 {
+    font-size: 22px;
+}
+.style-five .counter-text h1 {
+    font-size: 45px;
+}
+.style-five .counter-text span {
+    font-size: 35px;
+}
+.style-five .counter-title h4 {
+    font-size: 20px;
+}
+.team-title h3 {
+    font-size: 21px;
+}
+.flip-box3 {
+    margin-top: 0;
+    text-align: center !important;
+    margin-bottom: 30px;
+}
+.row.call-top2 {
+    text-align: center;
+}
+.style-two.why-choose-us-area {
+    padding: 195px 0 25px;
+}
+.dreamit-video-content-thumb {
+    text-align: center;
+}
+.portfolio_area {
+    padding: 100px 0 25px;
+}
+.footer-recent-post {
+    overflow: hidden;
+}
+.video-area {
+    overflow: hidden;
+}
+.style-three.six.technology-area {
+    padding: 100px 0 176px;
+}
+.style-three.why-choose-us-area {
+    overflow: hidden;
+}
+.slider-four .slider-content h4 {
+    font-size: 14px;
+}
+.slider-button2 a {
+    padding: 15px 24px;
+    font-size: 14px;
+}
+.style-four .feature-box-title h2 {
+    font-size: 18px;
+}
+.dreamit-service-title p {
+    font-size: 15px;
+}
+.style-three .dreamit-service-title h2 {
+    font-size: 21px;
+}
+.style-two .row.call-top {
+    padding: 37px 20px 30px;
+}
+.style-four .feature-box-icon2 {
+    margin-right: 18px;
+}
+.style-four .feature-box-title p {
+    overflow: hidden;
+}
+.why-choos-thumb img {
+    width: 100%;
+}
+.style-three .dreamit-section-title h1 {
+    font-size: 19px;
+    line-height: 20px;
+}
+.style-three .dreamit-section-title.style_two.text-left {
+    text-align: center !important;
+    margin-top: 50px !important;
+}
+.why-choose-us-title2 h4 {
+    font-size: 18px;
+}
+.style-three .why-choose-us-right-box {
+    text-align: center;
+}
+.style-two .call-do-action-button a {
+    font-size: 15px;
+    padding: 9px 28px;
+}
+.dreamit-section-title {
+    text-align: center !important;
+}
+.service-button {
+    text-align: center;
+}
+.dreamit-service-title h2 {
+    font-size: 18px;
+    line-height: 26px;
+}
+.testimonial-title p {
+    font-size: 16px;
+}
+.why-choose-us-icon3 {
+    float: inherit;
+    margin-right: 0;
+    text-align: center;
+}
+.why-choose-us-title2 p {
+    overflow: hidden;
+}
+.style-three .dreamit-service-icon {
+    margin-right: 18px;
+}
+.style-three .dreamit-service-title h2 {
+    font-size: 22px;
+}
+.style-three .service-button a {
+    font-size: 16px;
+    margin-top: -23px;
+    float: right;
+    margin-right: 85px;
+}
+.style-two .call-do-action-button a {
+    margin-top: 0;
+    margin-right: 32px;
+}
+.style-three .blog-button a {
+    padding: 8px 15px;
+    font-size: 13px;
+    margin-top: -142px;
+}
+.style-three .blog_page_title h4 {
+    font-size: 22px;
+}
+.slider-five.slider-area {
+    overflow: hidden;
+    height: 1000px;
+}
+.service-area.style-six {
+    overflow: hidden;
+}
+.style-three.subscribe-area {
+    overflow: hidden;
+}
+.slider-five .slider-content h1 {
+    font-size: 30px;
+    line-height: 30px;
+}
+.slider-five .from-box {
+    padding-top: 0px;
+}
+.slider-five .from-box input {
+    height: 56px;
+    width: 55%;
+}
+.slider-five .from-box button {
+    top: 75%;
+    right: -11px;
+    padding: 12px 24px;
+    font-size: 12px;
+}
+.dreamit-slider-thumb2 {
+    margin-left: 0;
+    margin-top: 30px;
+}
+.dreamit-slider-thumb2 img {
+    width: 100%;
+}
+.style-five .dreamit-feature-single-box2 {
+    padding: 40px 20px 52px;
+}
+.style-five .feature-icon-thumb {
+    margin-right: 5px;
+}
+.feature-icon-thumb img {
+    width: 80%;
+}
+.style-five .dreamit-feature-single-box3 {
+    padding: 40px 20px 52px;
+}
+.dark-version.dreamit-section-title h1 {
+    font-size: 22px;
+    line-height: 25px;
+}
+.style-three .brand-title3 h5 {
+    font-size: 17px;
+    padding-bottom: 40px;
+}
+.counter-title h4 {
+    font-size: 19px;
+    font-weight: 600;
+}
+.feature-box-title {
+    overflow: hidden;
+}
+.from-box button {
+    top: 0px;
+    font-size: 15px;
+}
+.style-three .row.brand {
+    padding-bottom: 70px;
+}
+.style-six .dreamit-section-title p {
+    padding: 0 06px;
+}
+.style-six .dreamit-service-title h4 {
+    font-size: 22px;
+}
+.style-four .why-choose-us-title p {
+    font-size: 13px;
+}
+.why-choose-us-button a {
+    font-size: 12px;
+    margin-top: 15px;
+}
+.style-seven .dreamit-service-title h4 {
+    font-size: 22px;
+}
+.style-five .dreamit-about-title h1 {
+    font-size: 70px;
+    padding: 0px 0 20px;
+}
+.style-five .dreamit-about-thumb-box {
+    margin-left: 0;
+}
+.style-five .dreamit-about-thumb img {
+    width: 100%;
+}
+.style-five .dreamit-about-content {
+    margin-top: -314px;
+    margin-left: 65px;
+}
+.style-five .dreamit-about-title h5 {
+    font-size: 15px;
+}
+.style-five .dreamit-about-button a {
+    display: none;
+}
+.style-five .about-icon-thumb img {
+    width: 18%;
+}
+.dark-version2.dreamit-section-title h1 {
+    font-size: 22px;
+    line-height: 22px;
+}
+.style-five .elementor-about-title h5 {
+    font-size: 18px;
+    padding-top: 5px;
+}
+.style-five .elementor-about-title p {
+    padding: 5px 0 0;
+}
+.style-four .blog_page_title h4 a {
+    line-height: 28px;
+    font-size: 18px;
+}
+.style-three .subscribe-title h1 {
+    font-size: 22px;
+    margin-bottom: 0;
+}
+.style-three .subscribe-title p {
+    padding: 5px 0 39px;
+}
+.style-three .from-box input {
+    height: 48px;
+    width: 65%;
+}
+a.logo_img img {
+    width: 35%;
+}
+.dreamit-logo {
+    text-align: center;
+}
+.style-three .menu-quick-link-content ul li {
+    padding-left: 4px;
+    padding-bottom: 15px;
+}
+.style-three .widget.widget-nav-menu {
+    padding-left: 0;
+    text-align: center;
+}
+.style-three .company_icon a {
+    margin: 0px 0px 0px 3px;
+    font-size: 12px;
+    height: 28px;
+    width: 28px;
+    line-height: 30px;
+}
+.style-three .company_icon {
+    padding-left: 0;
+    text-align: center;
+}
+.footer-bottom-menu {
+    padding-top: 0px;
+    padding-right: 42px;
+}
+.breatcumb-title h2 {
+    font-size: 42px;
+}
+.widget-sidebar-title-2 p {
+    padding: 0 0px 20px;
+}
+#section-quote .container-pe-quote .li-quote-1 {
+    left: -95px;
+    top: 138px;
+}
+#section-quote .container-pe-quote .li-quote-2 {
+    left: -106px;
+    top: 434px;
+}
+#section-quote .container-pe-quote .li-quote-3 {
+    left: -5px;
+    top: 430px;
+}
+#section-quote .container-pe-quote .li-quote-5 {
+    right: -35px;
+    top: 420px;
+}
+#section-quote .container-pe-quote .li-quote-4 {
+    right: -55px;
+    top: 156px;
+}
+#section-quote .container-pe-quote .li-quote-8 {
+    right: -41px;
+    top: 72px;
+}
+.style-two .elementor-about-title p {
+    font-size: 18px;
+}
+
+
+}
+
+

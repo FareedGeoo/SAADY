@@ -1,0 +1,490 @@
+<!DOCTYPE HTML>
+<html lang="en" dir="ltr">
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<title>Saady Law Firm</title>
+
+	<meta name="description" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- Favicon -->
+	<link rel="icon" type="image/png" sizes="56x56" href="assets/images//about/SADDYabout.png">
+	<!-- bootstrap CSS -->
+	<link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css" media="all" />
+	<!-- carousel CSS -->
+	<link rel="stylesheet" href="assets/css/owl.carousel.min.css" type="text/css" media="all" />
+	<!-- nivo-slider CSS -->
+	<link rel="stylesheet" href="assets/css/nivo-slider.css" type="text/css" media="all" />
+	<!-- animate CSS -->
+	<link rel="stylesheet" href="assets/css/animate.css" type="text/css" media="all" />
+	<!-- animated-text CSS -->
+	<link rel="stylesheet" href="assets/css/animated-text.css" type="text/css" media="all" />
+	<!-- font-awesome CSS -->
+	<link rel="stylesheet" href="assets/css/all.min.css" type="text/css" media="all" />
+	<!-- Material Design Iconic Font CSS -->
+	<link rel="stylesheet" href="assets/css/material-design-iconic-font.min.css" type="text/css" media="all" />
+	<!-- font-flaticon CSS -->
+	<link rel="stylesheet" href="assets/css/flaticon.css" type="text/css" media="all" />
+	<!-- theme-default CSS -->
+	<link rel="stylesheet" href="assets/css/theme-default.css" type="text/css" media="all" />
+	<!-- meanmenu CSS -->
+	<link rel="stylesheet" href="assets/css/meanmenu.min.css" type="text/css" media="all" />
+	<!-- Main Style CSS -->
+	<!-- <link id="cssFile"  rel="stylesheet"  href="style.css" type="text/css" media="all" /> -->
+	<!-- transitions CSS -->
+	<link rel="stylesheet" href="assets/css/owl.transitions.css" type="text/css" media="all" />
+	<!-- venobox CSS -->
+	<link rel="stylesheet" href="venobox/venobox.css" type="text/css" media="all" />
+	<!-- widget CSS -->
+	<link rel="stylesheet" href="assets/css/widget.css" type="text/css" media="all" />
+	<!-- responsive CSS -->
+	<link rel="stylesheet" href="assets/css/responsive.css" type="text/css" media="all" />
+	<!-- <link rel="stylesheet" media="screen" href="css/style.css"> -->
+	<!-- modernizr js -->
+	<script src="assets/js/vendor/modernizr-3.5.0.min.js"></script>
+</head>
+
+<body>
+	<script type="module">
+		'use strict';
+		var themeDir;
+		if (localStorage.getItem('themeDir')) {
+			themeDir = localStorage.getItem('themeDir');
+			var cssfile = document.createElement('link');
+			cssfile.id = 'cssFile';
+			cssfile.rel = 'stylesheet';
+			cssfile.type = "text/css";
+			cssfile.href = themeDir;
+			document.getElementsByTagName('head')[0].appendChild(cssfile);
+		} else {
+			themeDir = "style.css"
+			localStorage.setItem('themeDir', themeDir)
+			var cssfile = document.createElement('link');
+			cssfile.id = 'cssFile';
+			cssfile.rel = 'stylesheet';
+			cssfile.type = "text/css";
+			cssfile.href = themeDir;
+			document.getElementsByTagName('head')[0].appendChild(cssfile);
+		}
+
+	</script>
+	<!--==================================================-->
+	<!-- Start  Main Menu Area -->
+	<!--==================================================-->
+	<div id="sticky-header" class="dreamit_nav_manu style-two">
+		<div class="container">
+			<div class="row align-items-center">
+				<div class="col-lg-3">
+					<div class="logo">
+						<a class="logo_img" href="index.html" title="logo">
+							<img src="assets/images/ArabicLogo.png" alt="" />
+						</a>
+						<a class="main_sticky" href="index.html" title="logo">
+							<img src="assets/images/ArabicLogo.png" alt="" />
+						</a>
+					</div>
+				</div>
+				<div class="col-lg-9">
+					<nav class="dreamit_menu text-center">
+						<ul class="nav_scroll">
+							<li>
+								<a href="index.html" data-i18n="nav.home">Home</a>
+							</li>
+							<li>
+								<a href="aboutUs.html" data-i18n="nav.about">About Us </a>
+
+							</li>
+							<li>
+								<a href="areaOfExpertise.html" data-i18n="nav.areaOfExpertise">Areas of expertise</a>
+
+							</li>
+							<li>
+								<a href="#"><b data-i18n="[text]nav.services">Services</b><span><i
+											class="mx-1 fas fa-angle-down"></i></span></a>
+								<ul class="sub-menu">
+									<li><a href="regulatoryIntelligence.html" data-i18n="[text]nav.service.1"></a></li>
+									<li><a href="intellectualProperties.html"data-i18n="[text]nav.service.2"></a></li>
+									<li><a href="contracts.html" data-i18n="[text]nav.service.3">Contracts</a></li>
+									<li><a href="disputeResolution.html" data-i18n="[text]nav.service.4">Dispute Resolution</a></li>
+
+								</ul>
+							</li>
+							<li><a href="contactUs.html" data-i18n="nav.contact">Contact Us</a></li>
+						</ul>
+
+						<div class="header-bage" id="langSwitcher">
+							<span><i class="zmdi zmdi-globe"></i><b class="mx-1" data-i18n="nav.lang">AR</b></span>
+						</div>
+					</nav>
+				</div>
+				<div class="lines style-three">
+					<div class="line"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!--  Mobile Menu Area -->
+	<div class="mobile-menu-area d-sm-block d-md-block d-lg-none ">
+
+		<div class="mobile-menu">
+
+			<nav class="dreamit_menu">
+
+				<ul class="nav_scroll">
+					<li>
+						<a href="index.html" data-i18n="nav.home">Home</a>
+
+					</li>
+					<li>
+						<a href="aboutUs.html" data-i18n="nav.about">About Us </a>
+
+					</li>
+					<li>
+						<a href="areaOfExpertise.html" data-i18n="nav.areaOfExpertise">Areas of expertise</a>
+
+					</li>
+					<li>
+						<a href="#" data-i18n="[text]nav.services">Services</a>
+						<ul class="sub-menu">
+							<li><a href="regulatoryIntelligence.html" data-i18n="[text]nav.service.1"></a></li>
+							<li><a href="intellectualProperties.html" data-i18n="[text]nav.service.2"></a></li>
+							<li><a href="contracts.html" data-i18n="[text]nav.service.3"></a></li>
+							<li><a href="disputeResolution.html" data-i18n="[text]nav.service.4"></a></li>
+
+						</ul>
+					</li>
+					<li><a href="contactUs.html" data-i18n="nav.contact">Contact Us</a></li>
+					<li id="langSwitcher">
+						<a onclick="changeLang()" class=" text-center">
+							<span><i class="zmdi zmdi-globe"></i><b class="mx-1" data-i18n="nav.lang">AR</b></span>
+						</a>
+					</li>
+				</ul>
+
+			</nav>
+		</div>
+	</div>
+<!--==================================================-->
+<!-- start	softech slider Area -->
+<!--==================================================-->
+<div class="breatcumb-area d-flex align-items-center">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12">
+				<div class="breatcumb-content text-center">
+					<div class="breatcumb-title">
+						<h2 data-i18n="nav.contact">Contact us</h2>
+					</div>
+					
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="box-shape "></div>
+	
+</div>
+<!--==================================================-->
+<!-- End softech slider Area -->
+<!--==================================================-->
+
+<!--==================================================-->
+<!--Start dreamit contact now Area -->
+<!--==================================================-->
+<div class="contact-now-area">
+	<div class="container">
+		
+		<div class="row">
+			<div class="col-lg-5">
+				<div class="map">
+					<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3453.8581272585966!2d31.4444362!3d30.0409278!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14583d4abaaa90b1%3A0x6f7ee5ee54dbd1e2!2sAli%20Al%20Sibai%2C%20New%20Cairo%201%2C%20Cairo%20Governorate!5e0!3m2!1sen!2seg!4v1666386649343!5m2!1sen!2seg" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+				</div>
+			</div>
+			<div class="col-lg-7 d-flex align-items-center">
+				<div class="contact-now-form-box">
+					<div class="contact-now-form-box-inner">
+						<div class="contact-now-form-icon">
+							<i class="fas fa-phone-alt"></i>
+						</div>
+						<div class="contact-now-title">
+							<h4 data-i18n="titles.Phone">Phone Number</h4>
+							<p data-i18n="contacts.Phone">(+2) 01101232134</p>
+ 						</div>	
+					</div>
+					<div class="contact-now-form-box-inner">
+						<div class="contact-now-form-icon">
+							<i class="far fa-envelope"></i>
+						</div>
+						<div class="contact-now-title">
+							<h4 data-i18n="titles.Email">Email Address</h4>
+							<p data-i18n="contacts.Email">contact@saady.law</p>
+ 						</div>	
+					</div>
+					<div class="contact-now-form-box-inner">
+						<div class="contact-now-form-icon">
+							<i class="fas fa-map-marker-alt"></i>
+						</div>
+						<div class="contact-now-title">
+							<h4 data-i18n="titles.Address">Office Address</h4>
+							<p data-i18n="contacts.Address">Villa 167, Ali Al Sibai, New Cairo 1</p>
+							<p data-i18n="contacts.City">New Cairo, Egypt</p>
+						</div>	
+					</div>
+				</div>
+			</div>
+			
+			
+		</div>
+	</div>
+</div>
+<!--==================================================-->
+<!--End dreamit contact now Area -->
+<!--==================================================-->
+
+<!--==================================================-->
+<!--Start dreamit contact form Area -->
+<!--==================================================-->
+<div class="contact-form-area style-two">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12 col-sm-12">
+				<div class="contact-form-box">
+					<div class="dreamit-section-title white  text-center">
+						<h2 data-i18n="nav.contact">CONTACT US</h4>
+						 
+						<div class="em_bar_bg text-left"></div>
+					</div>
+					<div   id="dreamit-form">
+						<div class="row">
+							<div class="col-lg-6 col-sm-12">
+								<div class="from_box">
+									<input type="text" name="name" placeholder="Your Name" id="name">
+								</div>
+							</div>
+							<div class="col-lg-6 col-sm-12">
+								<div class="from_box">
+									<input type="text" name="email" placeholder="Your Email" id="mail">
+								</div>
+							</div>
+							<div class="col-lg-6 col-sm-12">
+								<div class="from_box">
+									<input type="number" name="phone" placeholder="Your Phone" id="phone">
+								</div>
+							</div>
+							<div class="col-lg-6 col-sm-12">
+								<div class="from_box">
+									<input type="text" name="web" placeholder="Subject" id="subject">
+								</div>
+							</div>
+							<div class="col-lg-12 col-sm-12">
+								<div class="from_box">
+									<textarea name="massage" id="message" cols="30" rows="10" placeholder="Massage"></textarea>
+								</div>
+								<div class="contact-button text-center">
+									<button type="submit" onclick="SendMail();">Send Message</button>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div id="status"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!--==================================================-->
+<!-- End dreamit contact form Area -->
+<!--==================================================-->
+
+	<!--==================================================-->
+	<!-- Start  subscribe Area -->
+	<!--==================================================-->
+	<div class="subscribe-area">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-6 col-md-6 col-sm-12">
+					<div class="subscribe-content">
+						<div class="subscribe-title">
+							<h1 data-i18n="titles.Subscribe">Subscribe our newsletter</h1>
+							<p data-i18n="titles.subSubscribe">Please Subscribe our news letter and and get update.</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-6 col-md-6 col-sm-12">
+					<div class="contact-form-box">
+						<div id="contact_form" >
+							<div class="from-box">
+								<input type="text" placeholder="E-Mail" id="subMail">
+								<button data-i18n="btn.Subscribe" onclick="SaveMail();">Subscribe</button>
+							</div>
+						</div>
+						<p class="form-message"></p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!--==================================================-->
+	<!-- End  subscribe Area -->
+	<!--==================================================-->
+
+	<!--==================================================-->
+	<!-- Start  Footer Middle Area -->
+	<!--==================================================-->
+	<div class="footer-middle">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-3 col-md-6 col-sm-12">
+					<div class="widget-widgets-company-info white">
+						<div class="dreamit-logo">
+							<a class="logo_img" href="index.html" title="">
+								<img src="assets/images/SADDY Final -07.png" alt="" />
+							</a>
+						</div>
+						<div class="company-info-desc">
+							<p data-i18n="footer.info"></p>
+						</div>
+						<div class="company_icon d-flex align-items-baseline justify-content-around">
+							<div class="company-title">
+								<h4 data-i18n="footer.FollowUs">Follow Us :</h4>
+							</div>
+							<a href="https://www.facebook.com/Saadylawfirm"><i class="fab fa-facebook-f"></i></a>
+							<a href="https://www.linkedin.com/company/saady-law-firm/people/?viewAsMember=true"><i class="fab fa-linkedin-in"></i></a>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-6 col-sm-12 offset-lg-2">
+					<div class="widget widget-nav-menu">
+						<h4 class="widget-title"  data-i18n="nav.services"></h4>
+						<div class="menu-quick-link-content">
+							<ul class="menu">
+								<li><a href="regulatoryIntelligence.html" data-i18n="nav.service.1"></a></li>
+								<li><a href="intellectualProperties.html" data-i18n="nav.service.2"></a></li>
+								<li><a href="contracts.html" data-i18n="nav.service.3"></a></li>
+								<li><a href="disputeResolution.html" data-i18n="nav.service.4"></a></li>
+								
+							</ul>
+						</div>
+					</div>
+				</div>
+
+				<div class="col-lg-3 col-md-6 col-sm-12 offset-lg-1">
+					<div id="footer-widget-address">
+						<h4 class="widget-title" data-i18n="footer.Contacts">Quick Contact</h4>
+						<div class="footer-inner">
+							<div class="footer-socail-icon">
+								<i class="flaticon-phone-call"></i>
+							</div>
+							<div class="footer-socail-info">
+								<p>
+									<span  data-i18n="contacts.Phone"></span>
+								</p>
+							</div>
+						</div>
+						<div class="footer-inner">
+							<div class="footer-socail-icon">
+								<i class="icon flaticon-email-1"></i>
+							</div>
+							<div class="footer-socail-info">
+								<p  data-i18n="contacts.Email"></p>
+							</div>
+						</div>
+						<div class="footer-inner">
+							<div class="footer-socail-icon">
+								<i class="icon flaticon-placeholder-1"></i>
+							</div>
+							<div class="footer-socail-info2">
+								<p >
+									<span  data-i18n="contacts.Address"></span>
+									<span  data-i18n="contacts.City"></span>
+								</p>
+								
+
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="row footer-bottom">
+				<div class="col-lg-6 col-md-6">
+					<div class="footer-bottom-content">
+						<div class="footer-bottom-content-copy" >
+							<p >Copyright &copy; Saady Law Firm all rights reserved. </p>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+	<!--==================================================-->
+	<!-- End  Footer Middle Area -->
+	<!--==================================================-->
+
+	<!--==================================================-->
+	<!-- Start scrollup section Area -->
+	<!--==================================================-->
+	<!-- scrollup section -->
+	<div class="scroll-area">
+		<div class="top-wrap">
+			<div class="go-top-btn-wraper">
+				<div class="go-top go-top-button">
+					<i class="fas fa-arrow-up"></i>
+					<i class="fas fa-arrow-up"></i>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!--==================================================-->
+	<!-- Start scrollup section Area -->
+	<!--==================================================-->
+
+
+	<!-- jquery js -->
+	<script src="assets/js/vendor/jquery-3.2.1.min.js"></script>
+	<!-- bootstrap js -->
+	<script src="assets/js/bootstrap.min.js"></script>
+	<!-- carousel js -->
+	<script src="assets/js/owl.carousel.min.js"></script>
+	<!-- counterup js -->
+	<script src="assets/js/jquery.counterup.min.js"></script>
+	<!-- waypoints js -->
+	<script src="assets/js/waypoints.min.js"></script>
+	<!-- wow js -->
+	<script src="assets/js/wow.js"></script>
+	<!-- imagesloaded js -->
+	<script src="assets/js/imagesloaded.pkgd.min.js"></script>
+	<!-- venobox js -->
+	<script src="venobox/venobox.js"></script>
+
+	<!--  animated-text js -->
+	<script src="assets/js/animated-text.js"></script>
+	<!-- venobox min js -->
+	<script src="venobox/venobox.min.js"></script>
+	<!-- isotope js -->
+	<script src="assets/js/isotope.pkgd.min.js"></script>
+	<!-- jquery nivo slider pack js -->
+	<script src="assets/js/jquery.nivo.slider.pack.js"></script>
+	<!-- jquery meanmenu js -->
+	<script src="assets/js/jquery.meanmenu.js"></script>
+	<script src="assets/js/popper.min.js"></script>
+	<!-- jquery scrollup js -->
+	<script src="assets/js/jquery.scrollUp.js"></script>
+	<!-- theme js -->
+	<script src="assets/js/theme.js"></script>
+	<script src="assets/js/slick.js"></script>
+	<script src="assets/js/slick.min.js"></script>
+	<!-- i18next js -->
+	<script src="assets/js/i18next.min.js"></script>
+	<script src="assets/js/jquery-i18next.min.js"></script>
+	<script type="module" src="assets/js/i18next.js"></script>
+
+
+	<!-- jquery js -->
+	<script src="assets/js/jquery.barfiller.js"></script>
+	<script src="assets/js/main.js"></script>
+
+	
+</body>
+
+</html>

@@ -1,0 +1,165 @@
+{
+    "nav": {
+        "home": "Home",
+        "about": "About",
+        "services": "Services",
+        "areaOfExpertise":"Areas of expertise",
+        "service": {
+            "1": "Regulatory Intelligence",
+            "2": "Intellectual Property",
+            "3": "Contracts" ,
+            "4": "Dispute Resolution" 
+        },
+        "contact": "Contact Us",
+        "lang": "عربي"
+    },
+    "home": {
+        "slogan": "We Regulate, You Elevate",
+        "saady": "SAADY",
+        "lawFirm": "LAW FIRM",
+        "sliderInfo": "Specialists in technology laws and their effects on business and commerce, and experts in intellectual property rights and related laws",
+        "videoBtn": "See Our Introduction",
+        "feat1": {
+            "feature": "Expert & Professional",
+            "description": "1000+ Disputes Experience."
+        },
+        "feat2": {
+            "feature": "Ranked",
+            "description": "As A Leading Law Firm In Egypt"
+        },
+        "feat3": {
+            "feature": "Trusted Services",
+            "description": "We Are Trusted Our Customers"
+        }
+    },
+    "about": {
+        "title": "Who we are",
+        "heading": "We focus on technology laws:",
+        "text": "Since the beginning of time, technology has been rapidly advancing. And now, it has become an integral part of our lives that affects the way we conduct our business, trade, manufacturing, and more. The internet for instance is a tool that provides many features both good and bad, for while it presents an unlimited source of knowledge and connection for both businesses and individuals, the risks of criminal activity online have also skyrocketed.",
+        "text2": "This interconnected virtual network offers as many\r\n        disadvantages as it does benefits, and safety is put in jeopardy.\r\n        With these developments becoming more and more advanced, people\r\n        require more insight into protecting themselves appropriately, and experts in\r\n        the field of technology laws are needed now more than ever.",
+        "text3": "At Saady Law Firm, we work with both national and international clients to\r\n        provide a variety of legal services, specializing in digital & technological legal\r\n        cases; we help you find the solution to all your legal matters on the digital\r\n        landscape.\r\n        ",
+        "titleWhat": "What is Technology Law",
+        "titleWhy": "and why is it important?",
+        "whatText": "Technology Law is the body of law that governs the use of technology. It is an\r\n        area of law that oversees both public and private use of technology and\r\n        covers all the ways that modern devices and methods of communication\r\n        impact society. In regards to companies & businesspeople, technology law\r\n        refers to the legal use of technology in commerce as well as the frameworks\r\n        they need to understand in order to properly conduct their businesses in the\r\n        global and local markets.\r\n        \r\n        With the surge of businesses and companies in recent years, so has the rate of\r\n        crimes in the digital space increased. In the modern era where everything is\r\n        evolving quickly, we require a law firm that understands the changing rules\r\n        and regulations to keep business compliant and protect clients from any\r\n        potential threats.\r\n        ",
+        "whyText": "Intellectual property rights encompass a body of laws that allows for the\r\n        protection of a corporation's intangible assets and is crucial to a corporation’s\r\n        growth. A key aspect of commerce is understanding how these rights can\r\n        strengthen a business's position across all digital mediums. Patents,\r\n        trademarks, and copyright laws, amongst others, all aid in the protection of\r\n        intellectual property such that they help solidify a corporation's rights to\r\n        conduct business once verified and registered as per the government's\r\n        approval.\r\n        \r\n        Technology has become an integral part of our daily lives, therefore we must\r\n        become more vigilant with our mundane activities. Many of our cyber\r\n        interactions and applications have become illegal and could lead to many\r\n        undesired consequences. This is why technology lawyers work to ensure that\r\n        society uses technology responsibly because as technology builds new\r\n        possibilities, technology law must adapt to those possibilities.\r\n        ",
+        "know": "Know More",
+        "singlePage": {
+            "title": "ABOUT US",
+            "text1": "Based in Egypt, Saady Law Firm works with both national and international\r\n            clients to provide a variety of legal services, with an emphasis on cybercrimes,\r\n            intellectual property rights, contract drafting, regulatory intelligence &\r\n            compliance, and dispute resolution. These services are only highlighted by\r\n            our professional & highly experienced team, rich legal background, and\r\n            comprehensive knowledge of modern technologies as well as other related\r\n            laws.\r\n            ",
+            "text2": "Clients’ digital safety and security are our top priority, therefore we ensure\r\n            constant counsel & advice and provide extensive insight into all legal affairs to\r\n            guarantee their success and stability across any industry. With a vast\r\n            collection of high-profile clients, we provide the necessary legal tools to\r\n            secure a prosperous future and develop sustainable businesses.\r\n            "
+        },
+        "AreaOfExpertise": {
+            "title":"Areas of Expertise",
+            "title3": "Intellectual Property",
+            "text1": "Intellectual Propertiey include but are not limited to:",
+            "bullet1": "- Patents",
+            "bullet2": "- An industrial design constitutes the ornamental or aesthetic\r\n            aspect of an article. A design may consist of three-dimensional\r\n            features, such as the shape or surface of an article, or of\r\n            two-dimensional features, such as patterns, lines, or color.\r\n            ",
+            "bullet3": "- Trademarks relate to any mark, name, or logo that distinguishes\r\n            one enterprise from another, under which trade is conducted for\r\n            any product or service, and through which the manufacturer or\r\n            service provider is identified.\r\n            ",
+            "bullet4": "- Copyrights refer to the rights the creators have over their literary\r\n            or artistic works including books, music, paintings, sculpture, and\r\n            films, to computer programs, databases, advertisements, maps,\r\n            and technical drawings\r\n            ",
+            "text2": "At Saady Law Firm we understand the need to claim & enforce ownership of\r\n            one’s intellectual property, and we can help you legally maintain the holding\r\n            of your inventions/creations regardless of your geographic location.\r\n            "
+        }
+    },
+    "services": {
+        "title": "Services",
+        "service": {
+            "1": {
+                "title": "Intellectual Property",
+                "text1": "Intellectual Property (IP) pertains to any original creation of the human\r\n                intellect such as artistic, literary, technical, or scientific inventions as well as\r\n                designs, symbols, names, and images used in commerce.\r\n                \r\n                ",
+                "bullet1": "Intellectual Property Rights (IPR) refer to the legal rights given to the inventor\r\n                or creator to protect his/her invention or creation for a certain period."
+            },
+            "2": {
+                "title": "Regulatory Intelligence & Compliance",
+                "text1": "Due to the evolving nature of regulatory frameworks, transparency has become a priority as non-compliance consequences rise, and businesses have largely adapted to these pressures from their governing bodies."
+            },
+            "3": {
+                "title": "Contracts",
+                "text1": "Our commercial contracts are designed to enforce a legitimate working relationship with relevant authorities and organizations worldwide."
+            },
+            "4": {
+                "title": "Dispute Resolution",
+                "text1": "Dispute resolution or dispute settlement is the process of resolving disputes between parties, disputes can arise in the context of …. "
+            }
+        },
+        "singlePage": {
+            "1": {
+                "title": "Intellectual Property",
+                "text1": "Intellectual Property (IP) pertains to any original creation of the human\r\n                intellect such as artistic, literary, technical, or scientific inventions as well as\r\n                designs, symbols, names, and images used in commerce.\r\n                Intellectual Property Rights (IPR) refer to the legal rights given to the inventor\r\n                or creator to protect his/her invention or creation for a certain period.\r\n                These legal rights confer an exclusive right to the inventor/creator or their\r\n                assignee to fully utilize their invention/creation for a given time. For this\r\n                reason, the need to protect these properties from unlawful use has become\r\n                expedient, particularly in the expanding technological landscape. IPR is a\r\n                strong legal tool that protects investments, time, money, and effort invested\r\n                by the owner of an IP, on both the physical & digital mediums, by granting\r\n                them an exclusive right to use their invention/creation for a determined time.\r\n                ",
+                "text2": "At Saady Law Firm we understand the need to claim & enforce ownership of\r\n                one’s intellectual property, and we can help you legally maintain the holding\r\n                of your inventions/creations regardless of your geographic location.\r\n                ",
+                "label1": "Intellectual Property Registration",
+                "bullet1": "By reaching out to the proper local, regional, or global patent office, we\r\n                can ensure your brand, product, or trademark is properly registered per\r\n                the relevant legal requirements\r\n                ",
+                "label2": "Intellectual Property Monitoring",
+                "bullet2": "Consistent monitoring of your work will be done across any medium to\r\n                immediately alert you of any infringements, similar or identical\r\n                trademarks, impersonators, or knock-offs.\r\n                ",
+                "label3": "Legal Advice",
+                "bullet3": "Our legal advice will help you effectively protect your intellectual\r\n                property by educating you on practices for how to act when faced with\r\n                infringements as well as how to maintain your online security\r\n                ",
+                "label4": "Intellectual Property Disputes",
+                "bullet4": "If you have intellectual property that has been infringed or if you have been accused of infringing someone else's intellectual property, you may want to consider hiring an intellectual property lawyer. An experienced lawyer can help create a plan, provide risk assessments and provide general guidance to help you address your issues. Intellectual property infringement actions can be incredibly technical. The assistance of an experienced lawyer can be the difference between success and failure."
+            },
+            "2": {
+                "title": "Contracts",
+                "text1": "Saady Law Firm's Commercial Contracts practice combines legal experience\r\n                with in-depth industry insight, addressing the broad spectrum of challenges\r\n                linked to cybersecurity and commercial law. When it comes to\r\n                multi-jurisdictional transactions, we are distinguishable in our extensive\r\n                knowledge and experience managing sophisticated commercial deals. Saady\r\n                Law firm is known for guiding clients through high-value, complex,\r\n                multi-jurisdictional commercial transactions and contracts. Clients mostly\r\n                benefit from Saady Law Firm's competence in a range of diverse practice\r\n                areas that are typically relevant to intellectual property rights, contract\r\n                drafting, regulatory intelligence & compliance, and dispute resolutions.\r\n                ",
+                "text2": "Establishing an equitable partnership is crucial to any company’s success, and\r\n                with Saady Law Firm, we help clients who work remotely in the global market\r\n                to navigate the complexities of contract & agreement drafting to ensure the\r\n                ideal framework for a prosperous future and guarantee security and success.\r\n                We specialize in strengthening connections between remote companies and\r\n                establishments outside of Egypt through legitimate commercial contracts,\r\n                while also focusing on reviewing & validating existing contracts as well as\r\n                drafting a wide range of different contracts, NDAs, and agreements for various\r\n                purposes.\r\n                "
+            },
+            "3": {
+                "title": "Regulatory Intelligence & Compliance",
+                "text1": "Regulatory compliance refers to a company's adherence to applicable local,\r\n                national, and international laws and regulations and can be distinguished\r\n                from other areas of business compliance, like following internal rules and\r\n                policies, as it addresses several legal requirements that companies must\r\n                follow\r\n                ",
+                "text2": "These regulations protect your business, employees, and customers. Security\r\n                regulations, for instance, help protect against data breaches, financial\r\n                regulations deter fraud, and food regulations assert a consistent quality of\r\n                food; compliance with regulations benefits your company as well as internal\r\n                and external individuals.\r\n                Due to the evolving nature of regulatory frameworks, transparency has\r\n                become a priority as non-compliance consequences rise, and businesses have\r\n                largely adapted to these pressures from their governing bodies. Armed with a\r\n                comprehensive knowledge of local regulations as well as our\r\n                multi-jurisdictional capabilities, Saady Law Firm is well-equipped to help\r\n                global & local clients effectively manage their regulatory & compliance\r\n                demands. And as cross-border transactions become more advanced, the\r\n                need for qualified counsel across many jurisdictions has become increasingly\r\n                necessary.\r\n                ",
+                "text3": "Adaptability then becomes a key component in business to avoid undesirable\r\n                ramifications, which is often difficult to accomplish. And if ever your business\r\n                fails to comply with these requirements, you could potentially subject yourself\r\n                to risks beyond simple fines, such as lawsuits and financial liabilities.\r\n                Saady Law Firm helps advise clients on their regulatory responsibilities,\r\n                minimize potential risks, and manage the pressures of governing bodies on\r\n                daily operations. We utilize our rich expertise in various industries including\r\n                consumer protection, data protection & privacy, intellectual properties,\r\n                financial services, food & beverage, consumer goods, digital media, and\r\n                corporate laws to keep clients informed of the latest regulatory and\r\n                compliance requirements, provide advice on complex regulatory matters, and\r\n                protect their assets and reputations.\r\n                "
+            },
+            "4": {
+                "title": "Dispute Resolution",
+                "text1": "In a highly charged world, disputes can easily arise due to misunderstandings\r\n                or conflicts. A dispute in the legal sense, however, refers to any disagreement\r\n                or controversy. Such disputes can arise in the context of contracts, statutes, or\r\n                regulations linked to a professional agreement, both parties' relationship, the\r\n                obligations of the parties, or the operations carried out under the agreement.\r\n                ",
+                "bullet1": "- Construction, Validity, and Enforceability",
+                "bullet2": "- Interpretation",
+                "bullet3": "- Negotiation",
+                "bullet4": "- Performance or Non-Performance",
+                "bullet5": "- Breach of Contract",
+                "bullet6": "- Termination",
+                "text2": "Dispute resolution is the process of resolving disputes between two or more\r\n                parties, and Saady Law Firm can assist with the resolution of a variety of\r\n                disputes such as:\r\n                ",
+                "bullet7": "- Pre-action discussions & Without Prejudice Discussions",
+                "bullet8": "- Mediations",
+                "bullet9": "- Arbitrations",
+                "bullet10": "- Litigations"
+            },
+            "5": {
+                "title": "Cyber Crimes",
+                "text1": "Cyber crimes are criminal offenses committed through the Internet or\r\n                otherwise aided by various forms of computer technology, typically to\r\n                generate profit or harm another individual’s security and financial health.\r\n                These digital crimes include but are not limited to:\r\n                ",
+                "bullet1": "- Illegally intercepting or stealing personal data",
+                "bullet2": "- Interfering with systems in a method that compromises a network",
+                "bullet3": "- Intellectual property infringement",
+                "bullet4": "- Hacking & identity theft",
+                "text2": "With the technological developments in recent years, cyber crimes have\r\n                become more of a threat to companies’ livelihoods as well as users’ security.\r\n                Businesses on average are at risk of losing millions due to data breaches, and\r\n                not only does this harm companies financially, but it can cause a heavy\r\n                impact on their reputation.\r\n                ",
+                "text3": "To avoid the risks of security breaches and other cybercrimes, Saady Law Firm\r\n                helps establish secure frameworks that keep you protected as well as work to\r\n                legally prove your ownership of intellectual property\r\n                "
+            },
+            "6": {
+                "title": "Technology Laws",
+                "text1": "Technology law is the body of law that governs the use of technology; it is an\r\n                area of law that oversees both public and private use of technology including\r\n                bullying, sexting, harassment, blackmailing, and misuse of intellectual\r\n                property.\r\n                ",
+                "text2": "This complex branch of the legal system also deals with disputes over who\r\n                legally 'owns' intangible 'property', such as creative works, patents, copyrights,\r\n                and trade secrets in the private, personal, or government sectors. Due to the\r\n                ever-evolving & branching nature of technological mediums, it can become\r\n                increasingly difficult to ascertain the source of the theft and prove the\r\n                legitimacy of copyright ownership in the digital landscape, which is why legal\r\n                expertise in digital and technological matters is increasingly becoming a\r\n                necessity.\r\n                ",
+                "text3": "At Saady Law Firm, we practice several legal areas to advise our clients on all\r\n                matters technological from data privacy and information management to communications and mobility issues by implementing compliance\r\n                frameworks that ensure businesses & corporations can efficiently navigate\r\n                both the legal and commercial sectors when using technology.\r\n                "
+            }
+        }
+    },
+    "titles":{
+        "Address":"Office Address",
+        "Email":"Email Address",
+        "Phone":"Phone Number",
+        "Subscribe":"Subscribe our Newsletter",
+        "subSubscribe":"Please Subscribe our news letter and and get update."
+        
+    },
+    "footer":{
+        "info":"The first law firm in the middle east to specialize in technology and related laws.",
+        "FollowUs":"Follow Us :",
+        "Contacts" : "Quick Contact"
+    },
+    "btn": {
+        "readMore": "Read More",
+        "Subscribe":"Subscribe"
+
+    },
+    "contacts":{
+        "Address":"Villa 167, Ali Al Sibai, New Cairo 1",
+        "City":"New Cairo, Egypt",
+        "Email":"contact@saady.law",
+        "Phone":"(+2) 01101232134"
+    }
+}
